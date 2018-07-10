@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 EditText firstNumEditText = (EditText) findViewById(R.id.firstNumEditText);
                 EditText secondNumEditText = (EditText) findViewById(R.id.secontNumEditText);
                 TextView resultTextView = (TextView) findViewById(R.id.resultTextView);
-
+//your a dick
                 int num1 = Integer.parseInt(firstNumEditText.getText().toString());
                 int num2 = Integer.parseInt(secondNumEditText.getText().toString());
                 int result = num1+num2;
