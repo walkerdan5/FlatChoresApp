@@ -25,12 +25,16 @@ public class MainActivity extends AppCompatActivity {
                 EditText firstNumEditText = (EditText) findViewById(R.id.firstNumEditText);
                 EditText secondNumEditText = (EditText) findViewById(R.id.secontNumEditText);
                 TextView resultTextView = (TextView) findViewById(R.id.resultTextView);
+<<<<<<< HEAD
                 RadioButton addbtn = (RadioButton) findViewById(R.id.addbtn);
                 RadioButton subbtn = (RadioButton) findViewById(R.id.subbtn);
                 RadioButton multbtn = (RadioButton) findViewById(R.id.multbtn);
                 RadioButton divbtn = (RadioButton) findViewById(R.id.divbtn);
 
 
+=======
+//your a dick
+>>>>>>> 70f7a2e2da6eef712b8f8907dfed22a6e140d81a
                 int num1 = Integer.parseInt(firstNumEditText.getText().toString());
                 int num2 = Integer.parseInt(secondNumEditText.getText().toString());
 
