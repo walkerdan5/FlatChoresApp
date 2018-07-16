@@ -41,6 +41,7 @@
         android:text="flatchores."
         android:textAlignment="center"
         android:textAllCaps="false"
+        android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/getStarted"
         app:layout_constraintEnd_toEndOf="parent"
