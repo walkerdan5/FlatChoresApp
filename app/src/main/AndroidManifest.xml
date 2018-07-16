@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"> //java class that initially launches
+        <activity android:name=".SplashPage"> //java class that initially launches
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

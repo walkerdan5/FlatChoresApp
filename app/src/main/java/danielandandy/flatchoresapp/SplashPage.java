@@ -8,70 +8,17 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+public class SplashPage extends AppCompatActivity {
 
     private boolean pressed = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.splash_page);
 
+        Button andy = (Button) findViewById(R.id.getStarted);
 
-        final Button calcbtn = (Button) findViewById(R.id.calcbtn);
-        calcbtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                EditText firstNumEditText = (EditText) findViewById(R.id.firstNumEditText);
-                EditText secondNumEditText = (EditText) findViewById(R.id.secontNumEditText);
-                TextView resultTextView = (TextView) findViewById(R.id.resultTextView);
-                RadioButton addbtn = (RadioButton) findViewById(R.id.addbtn);
-                RadioButton subbtn = (RadioButton) findViewById(R.id.subbtn);
-                RadioButton multbtn = (RadioButton) findViewById(R.id.multbtn);
-                RadioButton divbtn = (RadioButton) findViewById(R.id.divbtn);
-
-
-
-                int num1 = Integer.parseInt(firstNumEditText.getText().toString());
-                int num2 = Integer.parseInt(secondNumEditText.getText().toString());
-
-                if (addbtn.isChecked()){
-                    int result = num1+num2;
-                    resultTextView.setText(result+ "");
-                } else if (subbtn.isChecked()){
-                    int result = num1-num2;
-                    resultTextView.setText(result+ "");
-                }
-
-            }
-        });
-
-
-       /* Button calcbtn = (Button) findViewById(R.id.calcbtn);
-        RadioButton addbtn = (RadioButton) findViewById(R.id.calcbtn);
-        calcbtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                EditText firstNumEditText = (EditText) findViewById(R.id.firstNumEditText);
-                EditText secondNumEditText = (EditText) findViewById(R.id.secontNumEditText);
-                TextView resultTextView = (TextView) findViewById(R.id.resultTextView);
-
-                int num1 = Integer.parseInt(firstNumEditText.getText().toString());
-                int num2 = Integer.parseInt(secondNumEditText.getText().toString());
-
-                int result = num1-num2;
-                resultTextView.setText(result+ "");
-            }
-        });*/
-
-        Button andy = (Button) findViewById(R.id.andy);
-        andy.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                TextView resultTextView = (TextView) findViewById(R.id.resultTextView);
-                resultTextView.setText("Yes he is");
-            }
-        });
     }
 
 }
