@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1098587347672",
+    "firebase_url": "https://flatchores.firebaseio.com",
+    "project_id": "flatchores",
+    "storage_bucket": "flatchores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098587347672:android:ab0f05a92b43ed09",
+        "android_client_info": {
+          "package_name": "danielandandy.flatchoresapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098587347672-86u3644tenugsbmsugg51cgr71578eom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "danielandandy.flatchoresapp",
+            "certificate_hash": "b64525f429d01b4b2801e907ecf7681c1e6e2568"
+          }
+        },
+        {
+          "client_id": "1098587347672-r2oep5na3kgv5u0ig4sv3u9gbhj92cng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmvjmaj1YsKxHCbuspgMVWEs-j44mF-xc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098587347672-r2oep5na3kgv5u0ig4sv3u9gbhj92cng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
