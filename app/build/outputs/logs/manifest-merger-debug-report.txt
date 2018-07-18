@@ -1,0 +1,461 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/41cdbf768f3cb4a8a75372427ce76e0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/2b6d0a864f9559d9d8904cf7b37cd99d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.1.aar/898ad533e65649838ddadd4a1d16e04e/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c763163f824a48b7f9f833f5e95926e3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/b693b3d906953f32ea147f4325bc648b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/78581e295448a00e14f5eb800b1464f9/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/1da4f2e02d317f4e0b9707913ada9cde/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/d9e48f2aadfbd92a295fd4f600c4b94a/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3a1b866423997839f6d37b15a8a35a5c/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6015debc88f4aa65af42fa06ec1ad875/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/f84f5a9669d1fc9a7d6032392ee4c5ce/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/24c965f83255673b70409263f69dce7f/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/13b439252f9a275a38e8578768ecc6bb/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/da29e09f1e3d6d61e41eae1fc6a34550/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/2dbdd27b710910754ab9fca66bf9e9f6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/f7bce9e6422bea5bf17a1ef2aecec24d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0be29b3451e522c88afec5a723ea9061/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/044d9520ba07070008440f12e9619ed6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/30a721cc8131dfe42e6bf09927e295ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/d686e4d551034b8dc6312a11a4b954db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5e0daaa30e059bd2b5c0e12b017453d7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8ef04b34d6c53b24641bf7a2fb49950e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/0bdb44572552164f5233f75dba1a4970/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/9d75d8ef105e66a67693b1904a723a40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/60033a68793c97d2e69073c13464c5d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/a12d44199bfd6cf824c37d5956538742/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/8baa8b707b75fa9a94a49b8bd261b50d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/c5d64e7c06f0e9ef76a2fe7ab06bf7c3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/39960ba3c65fa57d4425165796572398/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0113253f5e9c250bcde6e02489d150d7/AndroidManifest.xml:17:1-30:12
+INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+		INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-core:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/2b6d0a864f9559d9d8904cf7b37cd99d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/2b6d0a864f9559d9d8904cf7b37cd99d/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c763163f824a48b7f9f833f5e95926e3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c763163f824a48b7f9f833f5e95926e3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/78581e295448a00e14f5eb800b1464f9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/78581e295448a00e14f5eb800b1464f9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3a1b866423997839f6d37b15a8a35a5c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3a1b866423997839f6d37b15a8a35a5c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6015debc88f4aa65af42fa06ec1ad875/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6015debc88f4aa65af42fa06ec1ad875/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/24c965f83255673b70409263f69dce7f/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/24c965f83255673b70409263f69dce7f/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/da29e09f1e3d6d61e41eae1fc6a34550/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/da29e09f1e3d6d61e41eae1fc6a34550/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/2dbdd27b710910754ab9fca66bf9e9f6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/2dbdd27b710910754ab9fca66bf9e9f6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/f7bce9e6422bea5bf17a1ef2aecec24d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/f7bce9e6422bea5bf17a1ef2aecec24d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0be29b3451e522c88afec5a723ea9061/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0be29b3451e522c88afec5a723ea9061/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/044d9520ba07070008440f12e9619ed6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/044d9520ba07070008440f12e9619ed6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5e0daaa30e059bd2b5c0e12b017453d7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5e0daaa30e059bd2b5c0e12b017453d7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8ef04b34d6c53b24641bf7a2fb49950e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8ef04b34d6c53b24641bf7a2fb49950e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/8baa8b707b75fa9a94a49b8bd261b50d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/8baa8b707b75fa9a94a49b8bd261b50d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/c5d64e7c06f0e9ef76a2fe7ab06bf7c3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/c5d64e7c06f0e9ef76a2fe7ab06bf7c3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/39960ba3c65fa57d4425165796572398/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/39960ba3c65fa57d4425165796572398/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0113253f5e9c250bcde6e02489d150d7/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0113253f5e9c250bcde6e02489d150d7/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:11:9-40
+activity#danielandandy.flatchoresapp.Login
+ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:12:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/41cdbf768f3cb4a8a75372427ce76e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/41cdbf768f3cb4a8a75372427ce76e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/2b6d0a864f9559d9d8904cf7b37cd99d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/2b6d0a864f9559d9d8904cf7b37cd99d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.1.aar/898ad533e65649838ddadd4a1d16e04e/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.1.aar/898ad533e65649838ddadd4a1d16e04e/AndroidManifest.xml:6:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c763163f824a48b7f9f833f5e95926e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c763163f824a48b7f9f833f5e95926e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/b693b3d906953f32ea147f4325bc648b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/b693b3d906953f32ea147f4325bc648b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/78581e295448a00e14f5eb800b1464f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/78581e295448a00e14f5eb800b1464f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/1da4f2e02d317f4e0b9707913ada9cde/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/1da4f2e02d317f4e0b9707913ada9cde/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/d9e48f2aadfbd92a295fd4f600c4b94a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/d9e48f2aadfbd92a295fd4f600c4b94a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3a1b866423997839f6d37b15a8a35a5c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3a1b866423997839f6d37b15a8a35a5c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6015debc88f4aa65af42fa06ec1ad875/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6015debc88f4aa65af42fa06ec1ad875/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/f84f5a9669d1fc9a7d6032392ee4c5ce/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/f84f5a9669d1fc9a7d6032392ee4c5ce/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/24c965f83255673b70409263f69dce7f/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/24c965f83255673b70409263f69dce7f/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/13b439252f9a275a38e8578768ecc6bb/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/13b439252f9a275a38e8578768ecc6bb/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/da29e09f1e3d6d61e41eae1fc6a34550/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/da29e09f1e3d6d61e41eae1fc6a34550/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/2dbdd27b710910754ab9fca66bf9e9f6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/2dbdd27b710910754ab9fca66bf9e9f6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/f7bce9e6422bea5bf17a1ef2aecec24d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/f7bce9e6422bea5bf17a1ef2aecec24d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0be29b3451e522c88afec5a723ea9061/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0be29b3451e522c88afec5a723ea9061/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/044d9520ba07070008440f12e9619ed6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/044d9520ba07070008440f12e9619ed6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/30a721cc8131dfe42e6bf09927e295ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/30a721cc8131dfe42e6bf09927e295ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/d686e4d551034b8dc6312a11a4b954db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/d686e4d551034b8dc6312a11a4b954db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5e0daaa30e059bd2b5c0e12b017453d7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5e0daaa30e059bd2b5c0e12b017453d7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8ef04b34d6c53b24641bf7a2fb49950e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8ef04b34d6c53b24641bf7a2fb49950e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/0bdb44572552164f5233f75dba1a4970/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/0bdb44572552164f5233f75dba1a4970/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/9d75d8ef105e66a67693b1904a723a40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/9d75d8ef105e66a67693b1904a723a40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/60033a68793c97d2e69073c13464c5d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/60033a68793c97d2e69073c13464c5d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/a12d44199bfd6cf824c37d5956538742/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/a12d44199bfd6cf824c37d5956538742/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/8baa8b707b75fa9a94a49b8bd261b50d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/8baa8b707b75fa9a94a49b8bd261b50d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/c5d64e7c06f0e9ef76a2fe7ab06bf7c3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/c5d64e7c06f0e9ef76a2fe7ab06bf7c3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/39960ba3c65fa57d4425165796572398/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/39960ba3c65fa57d4425165796572398/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0113253f5e9c250bcde6e02489d150d7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0113253f5e9c250bcde6e02489d150d7/AndroidManifest.xml:20:5-22:41
+INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5e0daaa30e059bd2b5c0e12b017453d7/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+		INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+		ADDED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+		INJECTED from /am/rialto/home1/garretandr/Desktop/FlatChoresApp/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/90cc27329ef80ddb0763c96c173c6de5/AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/fe453bcaf2ca1098cc1755ea2fe05f65/AndroidManifest.xml:34:13-89
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/f84f5a9669d1fc9a7d6032392ee4c5ce/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/f84f5a9669d1fc9a7d6032392ee4c5ce/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/ae0633aef536dd5a448880923e99905d/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/6128388b1d8edded1d298a82f4c120fc/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/716e3a0b1ecd48f93e4ad9bf92847e51/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:29:9-63
+permission#danielandandy.flatchoresapp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:32:22-76
+uses-permission#danielandandy.flatchoresapp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:danielandandy.flatchoresapp
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:48:27-58
+category#danielandandy.flatchoresapp
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a1a849ec0c76f9605e5da0d44d914ddc/AndroidManifest.xml:60:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6015debc88f4aa65af42fa06ec1ad875/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6015debc88f4aa65af42fa06ec1ad875/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6015debc88f4aa65af42fa06ec1ad875/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6015debc88f4aa65af42fa06ec1ad875/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/24c965f83255673b70409263f69dce7f/AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/24c965f83255673b70409263f69dce7f/AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/24c965f83255673b70409263f69dce7f/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/24c965f83255673b70409263f69dce7f/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/24c965f83255673b70409263f69dce7f/AndroidManifest.xml:10:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/044d9520ba07070008440f12e9619ed6/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/044d9520ba07070008440f12e9619ed6/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/044d9520ba07070008440f12e9619ed6/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5e0daaa30e059bd2b5c0e12b017453d7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8ef04b34d6c53b24641bf7a2fb49950e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8ef04b34d6c53b24641bf7a2fb49950e/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5e0daaa30e059bd2b5c0e12b017453d7/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5e0daaa30e059bd2b5c0e12b017453d7/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0113253f5e9c250bcde6e02489d150d7/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0113253f5e9c250bcde6e02489d150d7/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /am/empire/vol/x1/as/garretandr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0113253f5e9c250bcde6e02489d150d7/AndroidManifest.xml:26:13-58
